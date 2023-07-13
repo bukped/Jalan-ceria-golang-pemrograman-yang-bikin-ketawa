@@ -1,0 +1,3 @@
+Jalan Ceria dengan Golang
+Mengarungi Dasar-Dasar Pemrograman dengan Mini Project Web yang Bikin Ketawa
+Selamat datang di dunia seru pemrograman Go! Ikuti petualangan menarik dengan Gopher dalam buku ini. Pelajari dasar-dasar pemrograman Go secara menyenangkan dan lucu, sambil mengembangkan mini proyek web sederhana. Dengan penjelasan yang jelas dan contoh yang mudah diikuti, buku ini cocok untuk pemula maupun programmer berpengalaman. Bersama Gopher, Anda akan membangun situs web interaktif yang menggabungkan konsep dasar Go dengan sentuhan kreatif dan humor. Rasakan kegembiraan pemrograman Go dengan buku ini. Temukan bagaimana Go dapat menjadi bahasa pemrograman yang menyenangkan dan bermanfaat. Ayo, mari kita mulai membangun web dengan gaya Go bersama Gopher!
